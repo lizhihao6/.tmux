@@ -1,0 +1,5 @@
+pane	raw	1	0	:-	1	DESKTOP-TRC0QGN	:/home/lizhihao6	1	bash	:
+pane	raw	2	1	:*	1	DESKTOP-TRC0QGN	:/home/lizhihao6	1	bash	:
+window	raw	1	:bash	0	:-	940e,116x104,0,0,1	:
+window	raw	2	:333	1	:*	940f,116x104,0,0,2	off
+state	raw	
